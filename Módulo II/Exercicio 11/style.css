@@ -1,0 +1,27 @@
+/* style.css */
+
+/* h1 e h2 com a mesma cor */
+h1,
+h2 {
+  color: blueviolet;
+}
+
+/* Primeiro parágrafo */
+p {
+  color: firebrick;
+}
+
+/* Itens da lista */
+ul li {
+  color: blue;
+}
+
+/* Segundo e terceiro itens da lista */
+li.seagreen {
+  color: seagreen;
+}
+
+/* "Outras Opções" */
+h2 {
+  font-size: 0.5rem;
+}
